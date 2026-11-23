@@ -2,52 +2,52 @@
  "layout": "paint12",
  "paintings": [
   {
-   "artist": "good",
-   "title": "cat"
+   "artist": "Sly",
+   "title": "Good Cat"
   },
   {
-   "artist": "volcano",
-   "title": "bay"
+   "artist": "Some Broski",
+   "title": "Red Volcano"
   },
   {
-   "artist": "snake",
-   "title": "blue"
+   "artist": "Windyguy",
+   "title": "Blue Snake"
   },
   {
-   "artist": "yellow",
-   "title": "mask"
+   "artist": "Thief",
+   "title": "Yellow Mask"
   },
   {
-   "artist": "hiroshi",
-   "title": "nagai"
+   "artist": "Nagai",
+   "title": "Windy Summer"
   },
   {
-   "artist": "eye",
-   "title": "two"
+   "artist": "Steps",
+   "title": "Two Eyed"
   },
   {
-   "artist": "tiger",
-   "title": "bomb"
+   "artist": "Dude",
+   "title": "Tiger Bomb"
   },
   {
-   "artist": "the monkey",
-   "title": "monkeyman"
+   "artist": "Some poor guy",
+   "title": "MonkeyMan"
   },
   {
-   "artist": "color",
-   "title": "stuff"
+   "artist": "My Guy",
+   "title": "My Dude"
   },
   {
-   "artist": "pink",
-   "title": "inception"
+   "artist": "",
+   "title": "My Dude"
   },
   {
-   "artist": "do not",
-   "title": "panic"
+   "artist": "Fish",
+   "title": "Do Not Panic"
   },
   {
-   "artist": "i want",
-   "title": "shiny things"
+   "artist": "Me Too",
+   "title": "I Want Shiny Things"
   }
  ]
 }
